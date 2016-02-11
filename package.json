@@ -1,5 +1,12 @@
 {
-	"name": "google-code-prettify",
-	"version": "1.0.1",
-	"dependencies": {}
+	"name": "patternfly-google-code-prettify",
+	"version": "1.0.0",
+	"author": "Red Hat",
+	"license": "Apache-2.0",
+	"description": "This is a fork of tcollard/google-code-prettify v1.0.4 used for NPM packaging",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/patternfly/patternfly-google-code-prettify.git"
+	},
+	"homepage": "https://github.com/patternfly/patternfly-google-code-prettify"
 }
